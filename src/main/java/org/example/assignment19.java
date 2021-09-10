@@ -25,7 +25,7 @@ public class assignment19 {
 
         if(bmi > 25) {
             System.out.println("You are overweight according to your BMI");
-        } else if(bmi < 19.5) {
+        } else if(bmi < 18.5) {
             System.out.println("You are underweight according to your BMI");
         } else {
             System.out.println("You are within the ideal weight range according to BMI");
